@@ -1,0 +1,15 @@
+{
+    "name": "madieume/examen-js",
+    "autoload": {
+        "psr-4": {
+            "Madieume\\ExamenJs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Madieume",
+            "email": "madieumediop99@gmail.com"
+        }
+    ],
+    "require": {}
+}
